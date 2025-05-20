@@ -2,21 +2,19 @@
 - Keyboard Hero is a Software made with basic languages such as HTML5, CSS3 and Javascript.
 - This program can Run `online` or `offline`
 ---
-### 🔗 Link: https://rededge967.github.io/Keyboard-Hero
----
 ## Preview
 ![Keyboard Hero preview](https://user-images.githubusercontent.com/91379432/147643717-5d033687-bed2-4be4-8bc4-80dca284746d.PNG)
 ---
 ## Running `Keyboard Hero`
 ### Running `online`
 - Open up your browser
-- Go to https://rededge967.github.io/Keyboard-Hero
+- Go to https://Leo-Galli.github.io/Keyboard-Hero
 ### Running `offline`
-- Go to the [releases](https://github.com/RedEdge967/Keyboard-Hero/releases) and download it
+- Go to the [releases](https://github.com/Leo-Galli/Keyboard-Hero/releases) and download it
 - Extract the folder
 - Run `index.html` file in your browser
 ---
-## Can I [contribute?](https://github.com/RedEdge967/Keyboard-Hero/blob/master/CONTRIBUTING.md)
+## Can I [contribute?](https://github.com/Leo-Galli/Keyboard-Hero/blob/master/CONTRIBUTING.md)
 - Sure, open an issue, point out errors, and what not. Wanna fix something yourselves, you're welcome to open a pull request and I appreciate it.
 ---
 ### Browser Support
@@ -27,15 +25,15 @@ Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ |
 ## Cloning
 ### Cloning with HTTPS
 ```
-https://github.com/RedEdge967/Keyboard-Hero.git
+https://github.com/Leo-Galli/Keyboard-Hero.git
 ```
 ### Cloning with SSH
 ```
-git@github.com:RedEdge967/Keyboard-Hero.git
+git@github.com:Leo-Galli/Keyboard-Hero.git
 ```
 ### Cloning with Github CLI
 ```
-gh repo clone RedEdge967/Keyboard-Hero
+gh repo clone Leo-Galli/Keyboard-Hero
 ```
 ---
 > ### If you found this FOSS as a useful software, don't forget to give a star and fork to make a upgraded version of Keyboard hero with adding your own features.
